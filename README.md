@@ -42,14 +42,14 @@ Run it on : https://cpulator.01xz.net/?sys=arm-de1soc
 
 CONTRIBUTIONS
 
-Backbuffering all sprites - Mark
-Hardware Interrupts of Buttons - Christian
-Character Buffers - Mark
-Probabiliy Distribution - Christian
-Software Timers - Mark
-LoadingGame Sprites - Christian
-RocketPhase Sprites - Mark
-EndGame Cases - Christian
+-Backbuffering all sprites - Mark  
+-Hardware Interrupts of Buttons - Christian
+-Character Buffers - Mark
+-Probabiliy Distribution - Christian
+-Software Timers - Mark
+-LoadingGame Sprites - Christian
+-RocketPhase Sprites - Mark
+-EndGame Cases - Christian
 
 
 
