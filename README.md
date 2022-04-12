@@ -41,9 +41,9 @@ There are several important features, both (1) backend and (2) frontend
 - Unique endgame cases were chosen: Player 1 wins, Player 2 wins, or both players bankrupt themselves.
 
 Run it on : https://cpulator.01xz.net/?sys=arm-de1soc
-(1) Open File and Click on "C Code"
-(2) Compile and Continue
-(3) SW9 to RUN
+- (1) Open File and Click on "C Code"
+- (2) Compile and Continue
+- (3) SW9 to RUN
 
 ### CONTRIBUTIONS ###
 
